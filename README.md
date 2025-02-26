@@ -129,7 +129,7 @@ fetch('https://your-project-id.web.app/assets/data/config.json')
 
 ## 라이센스
 
-[MIT](LICENSE) 또는 여러분이 선택한 라이센스
+[MIT](LICENSE)
 
 ## 연락처
 
