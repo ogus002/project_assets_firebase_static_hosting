@@ -1,0 +1,39 @@
+{
+   "name": "iUPPITER FREE PASS NFT",
+   "image": "ipfs://QmcFV8cF7dpxs96k9RbQgxZ7AEB7DaSSPFHnTpVG9DHHFV",
+   "description": "Owning a FREE PASS NFT unlocks a gateway to participate in all task campaigns organized by iUPPITER.io. This special NFT, available for free minting, gives everyone the opportunity to become an early bird on the iUPPITER.io platform. Participate in daily events, earn coins, and use them for future IUP airdrops or NFT exchanges.",
+   "attributes": [
+      {
+        "value": "ipfs://QmcFV8cF7dpxs96k9RbQgxZ7AEB7DaSSPFHnTpVG9DHHFV",
+        "trait_type": "Thumbnail URL"
+      },
+      {
+        "value": "Community Engagement",
+        "trait_type": "Event Type"
+      },
+      {
+        "value": "{{MINTING_DATE}}",
+        "trait_type": "Minting Date"
+      },
+      {
+        "value": "Eligible",
+        "trait_type": "Reward Eligibility"
+      },
+      {
+        "value": "Early Supporter",
+        "trait_type": "Community Role"
+      },
+      {
+        "value": "All Task Campaigns",
+        "trait_type": "Event Access"
+      },
+      {
+        "value": "Daily Events, Coin Earning, Airdrop Eligibility",
+        "trait_type": "Utility"
+      },
+      {
+        "value": "FREE PASS",
+        "trait_type": "Token Type"
+      }
+    ]     
+  }
